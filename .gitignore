@@ -78,4 +78,4 @@ Servers/
 *.classpath 
 /target/ 
 /bin/
-/.setting/ 
+/.settings/
